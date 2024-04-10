@@ -5,7 +5,7 @@ GVortex, is an open redirection scanner that is designed to analyze a  domain fo
 
 ## Installation:
 
-Clone the repository: git clone https://github.com/ajansha/SubSpy.git
+Clone the repository: git clone https://github.com/ajansha/GV.git
 
 Run the tool: ./GV.sh
 
